@@ -6,7 +6,7 @@ if(!defined('THISBASEPATH')){ define('THISBASEPATH', '/Users/romaincascio/Docume
 require_once THISBASEPATH .'_inc/functions.php';
 
 ?>
-<nav class="navbar navbar-expand-lg bg-primary">
+<nav class="navbar navbar-expand-lg bg-dark">
 <div class="container d-flex justify-content-start m-0">
   <a href="/" class="navbar-brand"><img src="/img/logo.png" alt="Logo" class="logo"></a>
   <ul class="navbar-nav d-flex">
